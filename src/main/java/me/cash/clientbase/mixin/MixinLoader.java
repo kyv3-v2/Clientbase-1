@@ -7,6 +7,10 @@ import org.spongepowered.asm.mixin.Mixins;
 
 import net.minecraftforge.fml.relauncher.IFMLLoadingPlugin;
 
+/**
+ * @author cash
+ */
+
 public class MixinLoader implements IFMLLoadingPlugin {
 	
 	public MixinLoader() {
