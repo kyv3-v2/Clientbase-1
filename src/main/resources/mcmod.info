@@ -1,0 +1,17 @@
+[
+  {
+    "modid": "client",
+    "name": "Client",
+    "description": "1.12.2 utility mod aimed at anarchy servers",
+    "version": "0.0.1",
+    "mcversion": "1.12.2",
+    "logoFile": "",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "cash"
+    ],
+    "screenshots": [],
+    "dependencies": []
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "package": "me.cash.clientbase.mixin.mixins",
+  "refmap": "mixins.client.refmap.json",
+  "mixins": [
+    
+  ]
+}
